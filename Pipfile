@@ -8,6 +8,10 @@ verify_ssl = true
 [packages]
 django = "*"
 djangorestframework = "*"
+django-heroku = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+pypi = "*"
 
 [requires]
 python_version = "3.7"
